@@ -125,7 +125,7 @@ python main.py
 
 ---
 
-## 👥 Equipo de Desarrollo (6 Miembros)
+## 👥 Equipo de Desarrollo (5 Miembros)
 
 - **Alex**
 - **Elías**
