@@ -127,11 +127,11 @@ python main.py
 
 ## 👥 Equipo de Desarrollo (6 Miembros)
 
-- **Alex** - Backend & Integración OpenAI
-- **Elías** - Infraestructura, Mock & Tareas Asíncronas
-- **Miguel** - Documentación, Demo & Presentación
-- **Nico** - QA & Testing de Flujos
-- **Matías** - Media & Entrega Final
+- **Alex**
+- **Elías**
+- **Miguel**
+- **Nico**
+- **Matías**
 
 ---
 
